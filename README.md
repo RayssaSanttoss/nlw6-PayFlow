@@ -1,6 +1,8 @@
 # payflow
 
-A new Flutter project.
+A Flutter project of an app to manage slips.
+
+Um projeto em Flutter para gerenciar boletos.
 
 ## Getting Started
 
